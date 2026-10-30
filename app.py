@@ -267,7 +267,7 @@ elif page == "Contact":
     st.write("**Name:** John Lawrence Dioquino")
     st.write("**Program:** BS Information Technology, 4th Year")
     st.write("**University:** Cebu Institute of Technology–University")
-    st.write("**Section:** [ADD YOUR SECTION]")
+    st.write("**Section:** G01")
 
 # Footer
 st.divider()
